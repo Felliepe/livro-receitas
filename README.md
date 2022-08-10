@@ -3,6 +3,7 @@
 Olá | Bem vindo :haircut_man:
 
 * Strogonoff de frango
+* Patê 
 
 
 
